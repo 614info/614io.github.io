@@ -15,7 +15,5 @@
 # 模版引擎
 - <a href="https://www.kancloud.cn/xiandafu/beetl3_guide/1992542" target="_blank">Beetl3</a>
 
-# 分享文档
-- <a href="https://fanyi.youdao.com/#/" target="_blank">有道翻译</a>
 
 
