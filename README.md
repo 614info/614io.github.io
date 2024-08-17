@@ -1,7 +1,6 @@
 > Since 2009
 
 # Welcome to 614
-  614，一个神奇的代码。
 
 # 工具集
 - <a href="https://www.beijing-time.org/shijianchuo/" target="_blank">时间戳时间相互转换工具</a>
